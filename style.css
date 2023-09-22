@@ -1,0 +1,37 @@
+body {
+  background-color: #ffdada;
+}
+
+nav {
+  background-color: #8B0000;
+}
+
+nav ul li a {
+  color: white;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+a#link {
+  color: red;
+}
+
+div#warning {
+  color: red;
+}
+
+footer {
+  background-color: #8B0000;
+}
+
+footer p, footer a {
+  color: white;
+}
+
+footer .container {
+  margin: 10px;
+  padding: 10px;
+}
